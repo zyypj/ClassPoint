@@ -5,7 +5,7 @@
 
 ## Description
 
-The **School Management System** is a desktop application developed in Python using the Tkinter library. This system allows for the management of classrooms, students, assignments, and the generation of grade reports by term, providing a user-friendly and easy-to-use interface.
+The **ClassPoint** is a desktop application developed in Python using the Tkinter library. This system allows for the management of classrooms, students, assignments, and the generation of grade reports by term, providing a user-friendly and easy-to-use interface.
 
 ## Features
 
